@@ -1,2 +1,2 @@
-# python-learning
-Python notes and exercises
+# Curso-Python
+ Minha anotaçoes e exercicios do curso sobre Python 
